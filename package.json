@@ -1,0 +1,8 @@
+{
+  "name": "cms",
+  "version": "1.0.0",
+  "dependencies": {},
+  "devDependencies": {
+    "@ckeditor/ckeditor5-editor-classic": "^24.0.0"
+  }
+}

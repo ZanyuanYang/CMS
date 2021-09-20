@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="23b82056-7f03-4c94-9e3e-4fa362cd4657" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution>
+      <interpreter composer="composer" />
+    </execution>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package.json" />
+        <option value="composer.json" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/phpmailer/phpmailer" />
+      <path value="$PROJECT_DIR$/vendor/composer" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1kk1azOTMVUX9zi0XCDorsjonbA" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="web-ide.project.structure" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/admin/images" />
+      <recent name="$PROJECT_DIR$/images" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/admin/includes" />
+      <recent name="$PROJECT_DIR$/admin" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/css" />
+      <recent name="$PROJECT_DIR$/includes" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="23b82056-7f03-4c94-9e3e-4fa362cd4657" name="Default Changelist" comment="" />
+      <created>1606229842752</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606229842752</updated>
+      <workItem from="1606229843782" duration="225000" />
+      <workItem from="1606296237797" duration="3795000" />
+      <workItem from="1606557009505" duration="1669000" />
+      <workItem from="1607056616392" duration="258000" />
+      <workItem from="1607687720771" duration="3519000" />
+      <workItem from="1607787425245" duration="186000" />
+      <workItem from="1607787641467" duration="175000" />
+      <workItem from="1608620010021" duration="5935000" />
+      <workItem from="1608704214945" duration="5307000" />
+      <workItem from="1608709591093" duration="656000" />
+      <workItem from="1608780902773" duration="15025000" />
+      <workItem from="1608865575125" duration="7208000" />
+      <workItem from="1608881850617" duration="5543000" />
+      <workItem from="1608896112767" duration="4523000" />
+      <workItem from="1608908440135" duration="152000" />
+      <workItem from="1608947401608" duration="6322000" />
+      <workItem from="1608954827884" duration="146000" />
+      <workItem from="1608954975744" duration="6432000" />
+      <workItem from="1608971250841" duration="3073000" />
+      <workItem from="1608993475774" duration="250000" />
+      <workItem from="1609035426376" duration="11379000" />
+      <workItem from="1609073492848" duration="4598000" />
+      <workItem from="1609121785374" duration="1453000" />
+      <workItem from="1609226966605" duration="6344000" />
+      <workItem from="1609288059533" duration="13693000" />
+      <workItem from="1609308838987" duration="11507000" />
+      <workItem from="1609468608660" duration="29144000" />
+      <workItem from="1609598554018" duration="2200000" />
+      <workItem from="1610354831168" duration="165000" />
+      <workItem from="1610435893021" duration="2916000" />
+      <workItem from="1611734096247" duration="183000" />
+      <workItem from="1613703309084" duration="2958000" />
+      <workItem from="1613894457825" duration="291000" />
+      <workItem from="1615988992775" duration="144000" />
+      <workItem from="1615990337189" duration="109000" />
+      <workItem from="1616815967662" duration="41000" />
+      <workItem from="1618670990020" duration="672000" />
+      <workItem from="1620891116118" duration="57000" />
+      <workItem from="1620919451650" duration="95000" />
+      <workItem from="1621490329228" duration="1578000" />
+      <workItem from="1621499257054" duration="3269000" />
+      <workItem from="1621516759705" duration="4136000" />
+      <workItem from="1621584481492" duration="3716000" />
+      <workItem from="1621648000294" duration="1023000" />
+      <workItem from="1621665525453" duration="26000" />
+      <workItem from="1622123191792" duration="1312000" />
+      <workItem from="1623401559058" duration="16000" />
+      <workItem from="1624028469997" duration="285000" />
+      <workItem from="1624094734683" duration="849000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="451" y="-825" width="766" height="749" key="search.everywhere.popup" timestamp="1621587116175">
+      <screen x="-126" y="-1057" width="1920" height="1057" />
+    </state>
+    <state x="451" y="-825" width="766" height="749" key="search.everywhere.popup/-126.-1057.1920.1057/0.23.1680.954@-126.-1057.1920.1057" timestamp="1621587116175" />
+    <state x="505" y="232" width="670" height="676" key="search.everywhere.popup/-126.-1057.1920.1057/0.23.1680.954@0.23.1680.954" timestamp="1620891146484" />
+  </component>
+</project>

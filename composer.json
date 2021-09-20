@@ -1,0 +1,17 @@
+{
+    "name": "jayingyoung/cms",
+    "require": {
+        "phpmailer/phpmailer": "^6.2"
+    },
+    "autoload": {
+        "classmap": [
+            "classes"
+        ]
+    },
+    "authors": [
+        {
+            "name": "Zanyuan Yang",
+            "email": "jayingyoung@gmail.com"
+        }
+    ]
+}
